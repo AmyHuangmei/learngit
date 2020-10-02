@@ -1,0 +1,8 @@
+/home/huang/learngit/catkin_ws/build/CMakeFiles/install/strip.dir
+/home/huang/learngit/catkin_ws/build/CMakeFiles/install/local.dir
+/home/huang/learngit/catkin_ws/build/CMakeFiles/doxygen.dir
+/home/huang/learngit/catkin_ws/build/CMakeFiles/edit_cache.dir
+/home/huang/learngit/catkin_ws/build/CMakeFiles/download_extra_data.dir
+/home/huang/learngit/catkin_ws/build/CMakeFiles/rebuild_cache.dir
+/home/huang/learngit/catkin_ws/build/CMakeFiles/list_install_components.dir
+/home/huang/learngit/catkin_ws/build/CMakeFiles/install.dir
